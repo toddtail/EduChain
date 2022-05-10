@@ -1,2 +1,2 @@
 # EduChain
- A blockchain model for teaching display in Python
+A Python Project to simulate a local blockchain
